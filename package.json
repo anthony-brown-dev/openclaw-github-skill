@@ -1,0 +1,21 @@
+{
+  "name": "openclaw-github-skill",
+  "version": "1.0.0",
+  "description": "GitHub summary skill for OpenClaw",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "ai",
+    "github"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.1.0",
+    "zod": "^3.22.0"
+  }
+}
